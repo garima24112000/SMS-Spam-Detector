@@ -21,13 +21,8 @@ https://jupyter.readthedocs.io/en/latest/install.html#id3
 
 ## How to use?
 1. Open the terminal
-2. Type ```git clone https://github.com/PanPapag/SMS-Spam-Detection-System.git``` 
+2. Type ```git clone https://github.com/garima24112000/SMS-Spam-Detector.git``` 
    to clone the repository to your local machine
 3. Type ```jupyter notebook```
 4. Select from SMS-Spam-Detection-System folder the sms_spam_detection.ipynb file
 5. Run it
-
-## License
-This project is licensed under the MIT License.
-
-MIT © [PanPapag]()
